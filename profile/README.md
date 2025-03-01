@@ -4,7 +4,7 @@
 
 *Reimagining Social Interaction – Open Source & Free for All*
 
-<p><strong>🚧 WORK IN PROGRESS</strong> – [giga.place](https://giga.place) <strong>🚧</strong></p>
+<p><strong>🚧 WORK IN PROGRESS</strong> – <a href="https://giga.place">giga.place</a> <strong>🚧</strong></p>
 
 <img src="https://github.com/dao-xyz/.github/blob/4147355f6663d273b2f85da6ff73cb285145e588/gigalogo.png" alt="giga.place logo" width="250">
 
