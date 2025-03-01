@@ -1,7 +1,30 @@
-DAO.xyz are building a set of tools and frameworks to enable the next generation of social media. 
+<div align="center">
 
-🚧 WORK IN PROGRESS  [giga.place](https://giga.place)  🚧 
+# Welcome to giga.place 🚀
 
-🌳 It should be fun and easy to build applications, whether they'll be web-scale or hobby projects. [Peerbit](https://github.com/dao-xyz/peerbit) is our solution to this. It's a general-purpose database that you can use to build scaleable, interoperable and privacy-friendly applications.
+*Reimagining Social Interaction – Open Source & Free for All*
 
-🏄 Using the Web for browsing, creating, learning etc. can also be very fun and easy. You can own your data. You can customize your experience. You can access only the parts of applications that you deem useful. You can have your opinions and your data integrated into the decision-making of the Web. Form your future and shape a smarter civilization.
+<p><strong>🚧 WORK IN PROGRESS</strong> – [giga.place](https://giga.place) <strong>🚧</strong></p>
+
+<img src="https://github.com/dao-xyz/.github/blob/4147355f6663d273b2f85da6ff73cb285145e588/gigalogo.png" alt="giga.place logo" width="250">
+
+</div>
+
+## A New Era of Social Platforms
+
+**giga.place** is a dynamic platform where you can create, share, and interact in your own unique way.
+- **Create Your Own Content:** Design custom content types that reflect your creativity.
+- **Privacy First:** Take control of your data and enjoy a privacy-focused experience.
+- **Community Driven:** An open-source project that's free and open for all.
+
+Powered by our innovative [Peerbit](https://github.com/dao-xyz/peerbit) framework, giga.place is setting the stage for the next wave of digital community engagement.
+
+## Join the Movement
+
+Experience a platform that puts you in control and invites you to help shape its evolution.
+Your ideas and feedback are welcome as we build a digital future together.
+
+---
+
+**Discover More:**  
+Visit [giga.place](https://giga.place) to learn more and be part of our journey toward a smarter, more open digital world.
